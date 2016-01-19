@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="95px" height="92px" viewBox="0 0 95 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>ISO9001 BSMI</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-126.000000, -224.000000)">
+            <g id="ISO9001-BSMI" sketch:type="MSLayerGroup" transform="translate(125.000000, 225.000000)">
+                <ellipse id="Oval-2" stroke="#D0011B" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="50.5" cy="45" rx="18.5" ry="60" transform="translate(-7 -2) rotate(45 50 50)"></ellipse>
+                <text id="ISO9001" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="20" font-weight="420" letter-spacing="3.46000004" fill="#000000">
+                    <tspan x="0" y="29">ISO900</tspan>
+                    <tspan x="87.8400002" y="29">1</tspan>
+                </text>
+                <text id="BSMI" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="20" font-weight="420" letter-spacing="2.99000001" fill="#000000">
+                    <tspan x="23" y="71">BSM</tspan>
+                    <tspan x="76.79" y="71">I</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
