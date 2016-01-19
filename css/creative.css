@@ -89,7 +89,7 @@ aside {
     padding: 0;
 }
 .san-icon {
-    margin:2px;
+    margin:3px;
     max-height:75%;
 }
 .navbar-default {
@@ -142,20 +142,12 @@ aside {
     color:blue;
 }
 
-/*Swipe styling */
-.swipe {
-  overflow: hidden;
-  visibility: hidden;
-  position: relative;
-}
-.swipe-wrap {
-  overflow: hidden;
-  position: relative;
-}
-.swipe-wrap > div {
-  float:left;
-  width:100%;
-  position: relative;
+/*language icon styling*/
+
+.languages {
+    margin-top: 15px;
+    margin-right: 5px;
+    max-height: 1.2em;
 }
 
 @media(min-width:768px) {

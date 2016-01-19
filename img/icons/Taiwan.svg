@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="90px" viewBox="0 0 100 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Taiwan Language button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feMorphology radius="4" in="SourceAlpha" operator="dilate" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Taiwan-Language" sketch:type="MSArtboardGroup" transform="translate(-110.000000, -87.000000)">
+            <g id="Taiwan-Language-button" sketch:type="MSLayerGroup" transform="translate(110.000000, 87.000000)">
+                <rect id="Rectangle-1" fill="#FF0510" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="0" y="0" width="100" height="90" rx="8"></rect>
+                <rect id="Rectangle-2" fill="#0009DF" filter="url(#filter-2)" sketch:type="MSShapeGroup" x="0" y="0" width="70" height="60" rx="8"></rect>
+                <g id="starburst" transform="translate(8.000000, 3.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <circle id="Oval-1" cx="27" cy="27" r="11.5714286"></circle>
+                    <path d="M42.9102449,5.43634287 L36.4486693,17.6374356 L32.0165551,13.9184501 L42.9102449,5.43634287 L42.9102449,5.43634287 Z" id="Triangle-1"></path>
+                    <polygon id="Triangle-1" points="27 0 29.8928571 13.5 24.1071429 13.5 "></polygon>
+                    <polygon id="Triangle-1" transform="translate(27.000000, 47.250000) scale(1, -1) translate(-27.000000, -47.250000) " points="27 40.5 29.8928571 54 24.1071429 54 "></polygon>
+                    <path d="M41.7508327,49.8082356 L35.2892571,37.6071429 L30.8571429,41.3261283 L41.7508327,49.8082356 L41.7508327,49.8082356 Z" id="Triangle-1"></path>
+                    <path d="M11.0897551,5.43634287 L17.5513307,17.6374356 L21.9834449,13.9184501 L11.0897551,5.43634287 L11.0897551,5.43634287 Z" id="Triangle-1"></path>
+                    <path d="M12.0540408,49.5279428 L18.5156164,37.3268501 L22.9477306,41.0458356 L12.0540408,49.5279428 L12.0540408,49.5279428 Z" id="Triangle-1"></path>
+                    <path d="M54,27.9642857 L40.5,30.8571429 L40.5,25.0714286 L54,27.9642857 L54,27.9642857 Z" id="Triangle-1"></path>
+                    <path d="M0,27.9642857 L13.5,30.8571429 L13.5,25.0714286 L0,27.9642857 L0,27.9642857 Z" id="Triangle-1"></path>
+                    <path d="M50.2028143,13.9821429 L39.9579,23.2374306 L37.0650428,18.2268551 L50.2028143,13.9821429 L50.2028143,13.9821429 Z" id="Triangle-1"></path>
+                    <path d="M50.0076878,41.2624356 L39.7627735,32.0071478 L36.8699163,37.0177234 L50.0076878,41.2624356 L50.0076878,41.2624356 Z" id="Triangle-1"></path>
+                    <path d="M3.79718567,13.9821429 L14.0421,23.2374306 L16.9349572,18.2268551 L3.79718567,13.9821429 L3.79718567,13.9821429 Z" id="Triangle-1"></path>
+                    <path d="M3.60205917,41.2624356 L13.8469736,32.0071478 L16.7398307,37.0177234 L3.60205917,41.2624356 L3.60205917,41.2624356 Z" id="Triangle-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
